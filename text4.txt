@@ -1,0 +1,11 @@
+How to move the vscode folder -> github (without create the repo)
+     git init
+     git add . (insert the multiple file)
+     git commit -m " "
+     git remote add origin https link kudukanum
+     git branch
+        if master 
+        we have two ways
+           1. git push origin master
+           2. git branch -m main
+              git push origin main
